@@ -2,7 +2,7 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: false,
     autoplay: false,
-    theme: '#b7daff',
+    theme: '#1c03fc',
     loop: 'all',
     order: 'random',
     preload: 'auto',
