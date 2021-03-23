@@ -5,7 +5,7 @@ const app = new APlayer({
     theme: '#1c03fc',
     loop: 'all',
     order: 'random',
-    preload: 'auto',
+    preload: 'metadata',
     volume: 0.7,
     mutex: true,
     listFolded: false,
